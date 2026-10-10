@@ -1,0 +1,33 @@
+======================================================================
+              LAPORAN SISTEM PERPUSTAKAAN
+======================================================================
+Tanggal laporan : 2026-08-11 10:19:31
+
+Total Buku      : 7
+Buku Tersedia   : 7
+Buku Dipinjam   : 0
+Total Anggota   : 1
+Total Transaksi : 1
+Total Denda     : Rp0
+
+======================================================================
+DAFTAR BUKU
+======================================================================
+1. BK001 | SISTEM BASIS DATA | Hamzah Kholilul Azka,S.Kom | PELAJARAN | Tersedia
+2. BK002 | PEMROGRAMAN DASAR | Hamzah Kholilul Azka,S.Kom | PELAJARAN | Tersedia
+3. BK003 | DASAR DASAR PYTHON | Hamzah Kholilul Azka,S.Kom | PELAJARAN | Tersedia
+4. BK004 | PENGERTIAN BACKEND dan FRONTEND | Hamzah Kholilul Azka,S.Kom | PELAJARAN | Tersedia
+5. BK005 | HTML CSS dan JAVASCRIPT | Hamzah Kholiul Azka,S.Kom | PELAJARAN | Tersedia
+6. BK006 | KALKULUS | Hamzah Kholilul Azka,S.Kom | PELAJARAN | Tersedia
+7. BK007 | SISTEM INFORMASI MANAJEMEN | Hamzah Kholilul Azka,S.Kom | PELAJARAN | Tersedia
+
+======================================================================
+DATA ANGGOTA
+======================================================================
+1. AG001 | Hamzah Kholiul Azka | 251010146100079 | 1
+
+======================================================================
+RIWAYAT TRANSAKSI
+======================================================================
+TR001 | Buku: BK002 | Anggota: AG001 | Dikembalikan | Denda: Rp0
+======================================================================

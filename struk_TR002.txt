@@ -1,0 +1,15 @@
+========================================
+       PERPUSTAKAAN DIGITAL
+========================================
+ID Transaksi : TR002
+Anggota      : Hamzah Kholilul Azka
+Buku         : PEMROGRAMAN DASAR
+Tgl Pinjam   : 2026-08-23
+Batas Kembali: 2026-08-30
+Tgl Kembali  : -
+Status       : Dipinjam
+Denda        : Rp0
+========================================
+Terima kasih telah menggunakan
+Sistem Perpustakaan.
+========================================
